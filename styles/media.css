@@ -265,13 +265,13 @@
 
  	/* FOOTER */
  	footer{
+ 		width: 110%;
  		height: auto;
  	}
  	footer #left{
 		float: none;
  	}
  	footer #right{
- 		margin-left: 20px;
  		float: none;
  	}
 }
@@ -550,13 +550,13 @@ main #div_content #ul_rate>li{
 
  	/* FOOTER */
  	footer{
+ 		width: 110%;
  		height: auto;
  	}
  	footer #left{
 		float: none;
  	}
  	footer #right{
- 		margin-left: 20px;
  		float: none;
  	}
 }
@@ -654,13 +654,13 @@ main #div_content #ul_rate>li{
 
  	/* FOOTER */
  	footer{
+ 		width: 115%;
  		height: auto;
  	}
  	footer #left{
 		float: none;
  	}
  	footer #right{
- 		margin-left: 20px;
  		float: none;
  	}
 }
